@@ -1,6 +1,4 @@
-# memory_game_POO
-
-# Jeu de Simon avec Raspberry Pi Pico
+# Memory_game_POO
 
 ## Description
 Ce projet est une implémentation du jeu de Simon sur une **Raspberry Pi Pico**. Le but du jeu est de reproduire une séquence lumineuse qui s'allonge progressivement. L'utilisateur doit entrer la bonne séquence en utilisant les touches **1 (Rouge), 2 (Jaune), 3 (Bleu)**.
